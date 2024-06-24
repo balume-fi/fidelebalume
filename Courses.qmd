@@ -1,0 +1,36 @@
+---
+title: "Courses"
+editor: visual
+---
+
+## Gestion Comptable 1
+
+#### Niveau : Licence 1 & 2
+
+#### Responsabilité : chargé de TD
+
+#### Ressources : document d'introduction pour les différents chapitres (PPT disponible sur demande)
+
+## Gestion Comptable 2
+
+#### Niveau : Licence 1 & 2
+
+#### Responsabilité : chargé de TD
+
+#### Ressources : document d'introduction pour les différents chapitres (PPT disponible sur demande)
+
+## Finance
+
+#### Niveau : Licence 3
+
+#### Reponsabilité : chargé de TD
+
+#### Ressources : aucune
+
+## Financements structurés
+
+#### Niveau : Master 2
+
+#### Reponsabilité : chargé de CM
+
+#### Ressources : syllabus

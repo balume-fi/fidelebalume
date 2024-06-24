@@ -1,0 +1,43 @@
+---
+title: "Fidèle Balume"
+image: profile.jpg
+toc: false
+about: 
+  template: trestles
+  image-shape: round
+  image-width: 30em
+  links:
+    - text: LinkedIn
+      href: https://www.linkedin.com/in/fidèle-balume-b1a20a153
+    - text: Twitter
+      href: https://twitter.com/L_Fidel_Balume
+    - text: GitHub
+      href: https://github.com/fidelebalume
+    - text: Email
+      href: mailto:fidele.shukuru-balume1@univ-lyon3.fr
+editor_options: 
+  chunk_output_type: console
+---
+
+
+## Bio
+
+I am currently a PhD candidate at University Jean-Moulin Lyon 3. I'm working on the financial distress risk of LBO companies.
+
+------------------------------------------------------------------------
+
+## Education
+
+iaelyon School of Management, University of Jean-Moulin Lyon 3, Lyon 69 \| France PhD studies in Corporate Finance \| Oct. 2020 - present
+
+iaelyon School of Management, University of Jean-Moulin Lyon 3, Lyon \| France Master in Financial Engineering and Transaction \| Sept 2017 - June 2019
+
+------------------------------------------------------------------------
+
+## Experience
+
+iaelyon School of Management \| Researcher and Teaching Assistant \| Sept. 2023 - present
+
+Banque de France \| Financial Analyst \| April 2019 - Sept 2019
+
+------------------------------------------------------------------------
