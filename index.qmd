@@ -12,7 +12,7 @@ about:
     - text: Twitter
       href: https://twitter.com/L_Fidel_Balume
     - text: GitHub
-      href: https://github.com/fidelebalume
+      href: https://github.com/f-balume
     - text: Email
       href: mailto:fidele.shukuru-balume1@univ-lyon3.fr
 editor_options: 
@@ -28,9 +28,15 @@ I am currently a PhD candidate at University Jean-Moulin Lyon 3. I'm working on 
 
 ## Education
 
-iaelyon School of Management, University of Jean-Moulin Lyon 3, Lyon 69 \| France PhD studies in Corporate Finance \| Oct. 2020 - present
+iaelyon school of management, University of Jean-Moulin Lyon 3, Lyon,  France \| PhD studies in Corporate Finance \| Oct. 2020 - present
 
-iaelyon School of Management, University of Jean-Moulin Lyon 3, Lyon \| France Master in Financial Engineering and Transaction \| Sept 2017 - June 2019
+iaelyon school of management, University of Jean-Moulin Lyon 3, Lyon, France \| Master in Financial Engineering and Transaction \| Sept 2017 - June 2019
+
+Visiting scholar at University of North Carolina at Charlotte, USA \| 2023
+
+Summer school and My Research presentation at Aarhus University, Denmark \| july - Agust 2022
+
+Summer school at Paris School Of Economics (PSE), France \| june 2021
 
 ------------------------------------------------------------------------
 

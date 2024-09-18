@@ -1,0 +1,19 @@
+---
+title: "Data and useful links"
+editor: visual
+Links:
+  - text: LBO Data from B. Ayash
+    ref: <https://sites.google.com/view/brian-ayash>
+---
+
+## Data
+
+-   text: LBO Data from B. Ayash ref: <https://sites.google.com/view/brian-ayash>
+
+## Useful links
+
+-   Fama-French portfolios and risk factors from Kenneth French's : <http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html>
+
+-   Carver and White's BIS/BAS Scales form PSYCHOLOGICAL TESTING ONLINE : <https://psytests.org/trait/bisbasen.html>
+
+-   SSRN's Financial Economics Network : <https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=203#AnnType_1>

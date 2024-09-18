@@ -1,0 +1,79 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Fidèle Balume",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites.\n\n1 + 1\n\n[1] 2"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am a PhD candidate in corporate finance. This is a personal space where I share my experiences. I hope you’ll find it useful for some good ideas."
+  },
+  {
+    "objectID": "posts.html",
+    "href": "posts.html",
+    "title": "My Blog",
+    "section": "",
+    "text": "PhD Visiting scholar at UNC Charlotte\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nFidèle Balume\n\n\nJul 14, 2023\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nblog post title\n\n\n\nQuarto\n\n\nR\n\n\nMEDS\n\n\n\nblog post description (appears underneath the title in smaller text) which is included on the listing page\n\n\n\nSamantha Csik\n\n\nOct 24, 2022\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2024-09-18-TestBlog/index.html",
+    "href": "posts/2024-09-18-TestBlog/index.html",
+    "title": "blog post title",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{csik2022,\n  author = {Csik, Samantha},\n  title = {Blog Post Title},\n  date = {2022-10-24},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nCsik, Samantha. 2022. “Blog Post Title.” October 24, 2022.\nhttps://samanthacsik.github.io/posts/2022-10-24-my-blog-post/."
+  },
+  {
+    "objectID": "posts/2023-06-30-UNCCharlotte-visiting/index.html",
+    "href": "posts/2023-06-30-UNCCharlotte-visiting/index.html",
+    "title": "PhD Visiting scholar at UNC Charlotte",
+    "section": "",
+    "text": "CitationBibTeX citation:@online{balume2023,\n  author = {Balume, Fidèle},\n  title = {PhD {Visiting} Scholar at {UNC} {Charlotte}},\n  date = {2023-07-14},\n  url = {https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nBalume, Fidèle. 2023. “PhD Visiting Scholar at UNC\nCharlotte.” July 14, 2023. https://samanthacsik.github.io/posts/2022-10-24-my-blog-post/."
+  },
+  {
+    "objectID": "links.html",
+    "href": "links.html",
+    "title": "Data and useful links",
+    "section": "",
+    "text": "text: LBO Data from B. Ayash ref: https://sites.google.com/view/brian-ayash"
+  },
+  {
+    "objectID": "links.html#data",
+    "href": "links.html#data",
+    "title": "Data and useful links",
+    "section": "",
+    "text": "text: LBO Data from B. Ayash ref: https://sites.google.com/view/brian-ayash"
+  },
+  {
+    "objectID": "links.html#useful-links",
+    "href": "links.html#useful-links",
+    "title": "Data and useful links",
+    "section": "Useful links",
+    "text": "Useful links\n\nFama-French portfolios and risk factors from Kenneth French’s : http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html\nCarver and White’s BIS/BAS Scales form PSYCHOLOGICAL TESTING ONLINE : https://psytests.org/trait/bisbasen.html\nSSRN’s Financial Economics Network : https://www.ssrn.com/index.cfm/en/janda/professional-announcements/?annsNet=203#AnnType_1"
+  },
+  {
+    "objectID": "Research.html",
+    "href": "Research.html",
+    "title": "Research and Academic activities",
+    "section": "",
+    "text": "xxx\n\n\n\nxxx"
+  },
+  {
+    "objectID": "Research.html#publications",
+    "href": "Research.html#publications",
+    "title": "Research and Academic activities",
+    "section": "",
+    "text": "xxx"
+  },
+  {
+    "objectID": "Research.html#conferences",
+    "href": "Research.html#conferences",
+    "title": "Research and Academic activities",
+    "section": "",
+    "text": "xxx"
+  }
+]

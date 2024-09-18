@@ -1,31 +1,22 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Fidèle Balume"
   navbar:
-    background: primary
     left:
       - href: index.qmd
         text: Home
       - about.qmd
-      - filActu.qmd
-      - Courses.qmd
-      - Resources.qmd
+      - Research.qmd
+      - links.qmd
       - posts.qmd
-      
-  google-analytics: "G-ZENJESZR1W"
-
 
 format:
   html:
-    theme: 
-      light: minty
-      dark: solar
+    theme: cosmo
     css: styles.css
     toc: true
-    page-layout: full
 
-
+editor: visual
 
